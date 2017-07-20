@@ -1,0 +1,38 @@
+.container {
+  background: #355C7D;
+  background: -webkit-linear-gradient(#F8B195, #F67280, #C06C84, #6C5B7B, #355C7D);
+  background: -o-linear-gradient(#F8B195, #F67280, #C06C84, #6C5B7B, #355C7D);
+  background: -moz-linear-gradient(#F8B195, #F67280, #C06C84, #6C5B7B, #355C7D);
+  background: linear-gradient(#F8B195, #F67280, #C06C84, #6C5B7B, #355C7D);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 450px;
+  margin: auto;
+  padding: 2rem 1rem;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif; }
+  .container .timer-container {
+    margin: 2rem auto;
+    border: solid 3px #fff;
+    border-radius: 100%;
+    text-align: center;
+    height: 250px;
+    width: 250px; }
+    .container .timer-container p {
+      margin-left: auto;
+      margin-right: auto;
+      color: #fff;
+      font-size: 3rem; }
+  .container .button-container {
+    text-align: center;
+    margin-top: 2rem; }
+    .container .button-container button {
+      height: 75px;
+      width: 75px;
+      margin: .5rem;
+      border-radius: 100%;
+      background: #F67280;
+      color: #fff;
+      border: #fff solid 2px; }
+
+/*# sourceMappingURL=styles.css.map */
